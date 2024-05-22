@@ -16,5 +16,9 @@ TEXT
 
 ## Contribution Statement
 Contributions to this project were determined using CRediT (Contributor Roles Taxonomy). Here is the contribution statement:
-- A.O. contributed to data curation, formal analysis, investigation, methodology, visualization, and writing (original draft).
-- A.J.R.H. contributed to conceptualization, funding acquisition, methodology, project administration, supervision, and writing (original draft).
+- A.G. contributed to data curation, formal analysis, investigation, methodology, software, validation, visualization, and writing (original draft and revising).
+- S.W. contributed to software, supervision, visualization, and writing (original draft and revising).
+- A.O. contributed to supervision and writing (original draft and revising).
+- L.T. contributed to formal analysis, investigation, and methodology.
+- F.C. contributed to funding acquisition and resources.
+- A.J.R.H. contributed to conceptualization, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, software, supervision, validation, and writing (original draft and revising).
