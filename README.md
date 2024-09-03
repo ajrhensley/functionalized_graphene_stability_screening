@@ -1,5 +1,5 @@
 # Data and Code Repository for Original Research Article Titled: "Temperature and Pressure Driven Functionalization of Graphene with Hydrogen and Oxygen via Ab Initio Phase Diagrams"
-The original research article is by Alexandra Garzon*, Shuqiao Wang*, Ayodeji Omoniyi*, Leia Tam*, Fanglin Che**, and Alyssa J.R. Hensley*, and is accepted to _Applied_ _Surface_ _Science_ (last updated May 24, 2024).
+The original research article is by Alexandra Garzon*, Shuqiao Wang*, Ayodeji Omoniyi*, Leia Tam*, Fanglin Che**, and Alyssa J.R. Hensley*, and is published in _Applied_ _Surface_ _Science_ (DOI: 10.1016/j.apsusc.2024.161053).
 
 *Department of Chemical Engineering and Materials Science at Stevens Insitute of Technology
 
